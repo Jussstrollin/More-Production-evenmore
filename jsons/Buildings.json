@@ -3,7 +3,7 @@
     "name": "MoreProduction25",
     "cost": 0,
     "uniques": [
-      "Unbuildable <for [AI player]>",
-      "Production: 20" ]
+      "Unbuildable <for [AI player]>"],
+      "Production": 20
   }
 ] 
