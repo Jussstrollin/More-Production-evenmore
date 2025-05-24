@@ -1,8 +1,11 @@
 [
   {
-    "name": "MoreProduction25",
+    "name": "",
     "cost": 0,
-    "uniques": ["Unbuildable <for [AI player]>"],
+    "uniques": [
+      "Unbuildable <for [AI player]>",
+      "Unbuildable if has <MoreProduction50>"
+    ],
     "production": 25
   }
-] 
+]
