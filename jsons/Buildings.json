@@ -1,11 +1,18 @@
 [
   {
-    "name": "",
-    "cost": 0,
+    "name": "Primitive Smelting Camp",
+    "cost": 25,
     "uniques": [
       "Unbuildable <for [AI player]>",
-      "Unbuildable if has <MoreProduction50>"
+      "Requires <mining>",
+      "Can be built on <Iron>",
+      "Can be built on <Copper>",
+      "Can be built on <Aluminum>",
+      "Can be built on <Coal>",
+      "Can be built on <Uranium>"
     ],
-    "production": 25
+    "production": 3,
+    "description": "A primitive setup for smelting metals like copper and iron , can only be built on ore sites but cannot extract Resources",
+    "maintenance": 1
   }
 ]
